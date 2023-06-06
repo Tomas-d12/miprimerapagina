@@ -117,3 +117,4 @@ border: 2px solid rgb(87, 0, 0);
         text-align: center;}
         .fotitos {display:flex;
         flex-wrap: wrap;}
+        .greeting { text-align: center;}
